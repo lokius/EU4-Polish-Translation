@@ -1,0 +1,28 @@
+﻿l_english:
+ PDX_DUMMY_LOCALIZATION: ""
+ l_english: "Polski"
+ l_german: "Niemiecki"
+ l_french: "Francuski"
+ l_spanish: "Hiszpański"
+ l_russian: "Rosyjski"
+l_german:
+ PDX_DUMMY_LOCALIZATION: ""
+ l_english: "Polnisch"
+ l_german: "Deutsch"
+ l_french: "Französisch"
+ l_spanish: "Spanisch"
+ l_russian: "Russisch"
+l_french:
+ PDX_DUMMY_LOCALIZATION: ""
+ l_english: "Polonais"
+ l_german: "Allemand"
+ l_french: "Français"
+ l_spanish: "Espagnol"
+ l_russian: "Russe"
+l_spanish:
+ PDX_DUMMY_LOCALIZATION: ""
+ l_english: "Polaco"
+ l_german: "Alemán"
+ l_french: "Francés"
+ l_spanish: "Español"
+ l_russian: "Ruso"
